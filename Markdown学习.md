@@ -25,4 +25,4 @@ IT人士：写日志、技术文稿、记录代码片段、撰写文档
 9. 无序列表：-空格加内容或者+空格加内容   
 10. 链接：  
 URL连接：<http://www.baidu.com>    
-文字链接：[百度链接]（http://www.baidu.com）  
+文字链接：[百度首页](http://www.baidu.com)  
